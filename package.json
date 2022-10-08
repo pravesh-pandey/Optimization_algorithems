@@ -1,0 +1,21 @@
+{
+  "name": "optimization_algorithems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pravesh-pandey/Optimization_algorithems.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pravesh-pandey/Optimization_algorithems/issues"
+  },
+  "homepage": "https://github.com/pravesh-pandey/Optimization_algorithems#readme"
+}
